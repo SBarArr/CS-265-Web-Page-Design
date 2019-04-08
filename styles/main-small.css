@@ -1,0 +1,14 @@
+/* Written by: Suzy Barajas
+   Date: 13/03/2019 */
+
+@media (max-width:600px) {
+    .navigation-bar {
+        width: 25%;
+        left: -25%;
+    }
+
+    .content {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
